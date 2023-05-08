@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>End Gun Violence Now</title>
+	<title>Gun Reaper</title>
 	<link rel="stylesheet" href="style.css">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/analog-clock/2.0.3/analog.min.js"></script>
 </head>
